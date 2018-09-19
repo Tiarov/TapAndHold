@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e41ed001f969ef45933b1b28abc7895, type: 3}
   m_Name: Game Settings
   m_EditorClassIdentifier: 
-  DifficultyLevel: 0.481
+  DifficultyLevel: 0.587
   MusicVolume: 0.5
   EffectsVolume: 0.397
